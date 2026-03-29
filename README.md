@@ -15,7 +15,7 @@ Your goal is to transform this raw scaffold into a polished, performant, and vis
 4. **Submit a Pull Request:** Once you are satisfied with your work, open a Pull Request against this original repository.
    - If you have created a design for this challenge. Make sure to link it here. If not, leave it as is.
 
-   **DESIGN LINK** = <public_url_here>
+   **DESIGN LINK** = https://ai-agent-builder-git-main-adnanturjoys-projects.vercel.app/
    - **IMPORTANT:** In the PR, make sure to put your CV in the `public` folder (as a PDF). You can also present your CV in the frontend in a creative way; but the pdf in the `public` folder is a must.
 
 ## 🤖 AI Tool Usage
